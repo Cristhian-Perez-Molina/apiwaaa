@@ -4,7 +4,7 @@ namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
 use App\Models\Paralelo;
-use Illuminate\Suport\Facade\Logs;
+use Illuminate\Support\Facades\Log;
 
 class ParaleloController extends Controller
 {
